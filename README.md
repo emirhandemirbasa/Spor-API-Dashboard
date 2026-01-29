@@ -40,4 +40,8 @@
 - Konferans Ligine ait bilgiler
 [![Konferans Ligine ait bilgiler}](https://i.hizliresim.com/tnisxf9.png)](https://hizliresim.com/tnisxf9)
 
+## API Akış Diyagramı
+
+[![API Akış Diyagramı}](https://i.hizliresim.com/ri4dgsf.png)](https://hizliresim.com/ri4dgsf)
+
 ##### İstek öneri ve hata bildirimi için issue açabilirsiniz.
